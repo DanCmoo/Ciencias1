@@ -1,0 +1,13 @@
+Ana Garcia|Sistemas|Danza|22
+Ana Garcia|Sistemas|Danza|22
+Carlos Lopez|Electrica|Beisbol|24
+Carlos Lopez|Electrica|Beisbol|24
+Diego Morales|Electronica|Natacion|25
+Elena Vargas|Catastral|Danza|22
+Jose Martinez|Catastral|Natacion|26
+Laura Fernandez|Industrial|Danza|21
+Maria Rodriguez|Electronica|Basquet|20
+Maria Rodriguez|Electronica|Basquet|20
+Pedro Sanchez|Sistemas|Beisbol|23
+Roberto Silva|Industrial|Beisbol|27
+Sofia Torres|Electrica|Basquet|19

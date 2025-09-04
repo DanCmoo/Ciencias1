@@ -1,0 +1,8 @@
+Raiz inicial - Negro
+Hijo izquierdo - Rojo
+Hijo derecho - Rojo
+Provoca recoloreo
+Hijo derecho de 5
+Provoca rotación izquierda + derecha
+Hijo izquierdo de 15
+Hijo derecho de 15
